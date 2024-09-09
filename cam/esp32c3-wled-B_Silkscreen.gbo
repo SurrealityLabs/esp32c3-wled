@@ -1,0 +1,31 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*%
+%TF.CreationDate,2024-08-07T00:27:04-04:00*%
+%TF.ProjectId,esp32c3-wled,65737033-3263-4332-9d77-6c65642e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Legend,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.4) date 2024-08-07 00:27:04*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,3.200000*%
+G04 APERTURE END LIST*
+%LPC*%
+D10*
+%TO.C,H1*%
+X160000000Y-85000000D03*
+%TD*%
+%TO.C,H2*%
+X188000000Y-85000000D03*
+%TD*%
+%TO.C,H4*%
+X160000000Y-115000000D03*
+%TD*%
+%TO.C,H3*%
+X188000000Y-115000000D03*
+%TD*%
+%LPD*%
+M02*
